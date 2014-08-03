@@ -1,0 +1,10 @@
+4-Aug 2014
+----------
+	JUNIT - Unit testing framework
+	MAVEN PROJECT - Dependency management
+	JERSEY - RESTFUL Webservice framework
+
+3-Aug-2014
+----------
+	JSTL - index.jsp
+	TLD - Using common function inside JSP page using tld method
